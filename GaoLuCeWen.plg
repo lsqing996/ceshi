@@ -1,0 +1,170 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: GaoLuCeWen - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\刘束青\AppData\Local\Temp\RSP7723.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/GaoLuCeWen.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp"
+]
+Creating command line "cl.exe @"C:\Users\刘束青\AppData\Local\Temp\RSP7723.tmp"" 
+Creating temporary file "C:\Users\刘束青\AppData\Local\Temp\RSP7724.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/GaoLuCeWen.pdb" /debug /machine:I386 /out:"Debug/GaoLuCeWen.exe" /pdbtype:sept 
+".\Debug\Ado.obj"
+".\Debug\Dlg_GaoLuWenDuInfo.obj"
+".\Debug\GaoLu.obj"
+".\Debug\GaoLuCeWen.obj"
+".\Debug\GaoLuCeWenDoc.obj"
+".\Debug\GaoLuCeWenView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\GaoLuCeWen.res"
+]
+Creating command line "link.exe @"C:\Users\刘束青\AppData\Local\Temp\RSP7724.tmp""
+<h3>Output Window</h3>
+Compiling...
+GaoLu.cpp
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(47) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(48) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(81) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(83) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(84) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(87) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(90) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(92) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(93) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(97) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(98) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(100) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(101) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(103) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(104) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(106) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(107) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(109) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(111) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(113) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(115) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(117) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(119) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(121) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(125) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(126) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(128) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(129) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(131) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(132) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(134) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(135) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(137) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(139) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(141) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(143) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(145) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(147) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(149) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(151) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(153) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(158) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(159) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(161) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(163) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(164) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(166) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(167) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(169) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(170) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(173) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(174) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(176) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(177) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(179) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(181) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(183) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(186) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(187) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(189) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(190) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(192) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(194) : warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(196) : warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(199) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(200) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(202) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(204) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(205) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(207) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(208) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(210) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(211) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(214) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(215) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(217) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(219) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(220) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(222) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(223) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(225) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(226) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(229) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(230) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(232) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(234) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(235) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(237) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(238) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(240) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(241) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(244) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(245) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(247) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(249) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(250) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(252) : warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(253) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(255) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(256) : warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(268) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(268) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(271) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(271) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(274) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(274) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(277) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(277) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(280) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(280) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(283) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(286) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(286) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(289) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(289) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(296) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(299) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(303) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(306) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(335) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(337) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(345) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(346) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(349) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(409) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\刘束青\Desktop\GaoLuWenDuJianCe\GaoLu.cpp(410) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/GaoLuCeWen.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\Ado.sbr" ".\Debug\Dlg_GaoLuWenDuInfo.sbr" ".\Debug\GaoLu.sbr" ".\Debug\GaoLuCeWen.sbr" ".\Debug\GaoLuCeWenDoc.sbr" ".\Debug\GaoLuCeWenView.sbr" ".\Debug\MainFrm.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+GaoLuCeWen.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
